@@ -1,5 +1,5 @@
 
-	var url_popup = 'http://novaland.live/du-an/aqua-city-novaland/';
+	var url_popup = 'https://novaland.live/novaworldphanthiet/';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
